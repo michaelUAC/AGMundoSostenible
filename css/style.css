@@ -3,7 +3,10 @@ body{
 }
 
 #hero{
-    background: url(../img/agua-world.jpg) no-repeat center center fixed;
+    background-image: url(../img/agua-world.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
     background-size: cover;
 
 }
