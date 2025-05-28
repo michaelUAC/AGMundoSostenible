@@ -1,0 +1,26 @@
+body{
+    margin-top: 6rem;
+}
+
+#hero{
+    background: url(../img/agua-world.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+}
+
+.cont-mob{
+ background-color: #40cfff;
+
+}
+
+.cont-mob ul{
+    padding: 1rem;
+
+}
+
+.logo{
+    width: 3rem;
+    height: 3rem;
+    filter: invert(1);
+
+}
